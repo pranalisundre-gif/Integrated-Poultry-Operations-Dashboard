@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/project-banner.png" width="100%">
-</p>
-
 <h1 align="center">🐔 Integrated Poultry Operations Dashboard</h1>
 
 <p align="center">
